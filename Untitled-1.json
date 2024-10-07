@@ -1,0 +1,291 @@
+{
+    "type": "FeatureCollection",
+    "metadata": {
+        "generated": 1727889356000,
+        "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson",
+        "title": "USGS All Earthquakes, Past Week",
+        "status": 200,
+        "api": "1.10.3",
+        "count": 1849
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 1.48,
+                "place": "5 km ENE of Los Angeles, CA",
+                "time": 1727888996530,
+                "updated": 1727889135745,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40750487",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40750487.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 34,
+                "net": "ci",
+                "code": "40750487",
+                "ids": ",ci40750487,",
+                "sources": ",ci,",
+                "types": ",nearby-cities,origin,phase-data,scitech-link,",
+                "nst": 16,
+                "dmin": 0.0715,
+                "rms": 0.07,
+                "gap": 214,
+                "magType": "ml",
+                "type": "earthquake",
+                "title": "M 1.5 - 5 km ENE of Los Angeles, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.2001648,
+                    34.0758324,
+                    8.96
+                ]
+            },
+            "id": "ci40750487"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 1.7,
+                "place": "17 km WNW of Mentone, Texas",
+                "time": 1727888803576,
+                "updated": 1727889174513,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2024tjtn",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2024tjtn.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 44,
+                "net": "tx",
+                "code": "2024tjtn",
+                "ids": ",tx2024tjtn,",
+                "sources": ",tx,",
+                "types": ",origin,phase-data,",
+                "nst": 19,
+                "dmin": 0,
+                "rms": 0.6,
+                "gap": 212,
+                "magType": "ml",
+                "type": "earthquake",
+                "title": "M 1.7 - 17 km WNW of Mentone, Texas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.782,
+                    31.747,
+                    3.8665
+                ]
+            },
+            "id": "tx2024tjtn"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 0.75,
+                "place": "7 km NW of The Geysers, CA",
+                "time": 1727887221280,
+                "updated": 1727888966783,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75069516",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75069516.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 9,
+                "net": "nc",
+                "code": "75069516",
+                "ids": ",nc75069516,",
+                "sources": ",nc,",
+                "types": ",nearby-cities,origin,phase-data,scitech-link,",
+                "nst": 15,
+                "dmin": 0.003639,
+                "rms": 0.02,
+                "gap": 61,
+                "magType": "md",
+                "type": "earthquake",
+                "title": "M 0.8 - 7 km NW of The Geysers, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.813163757324,
+                    38.8206672668457,
+                    2.95000004768372
+                ]
+            },
+            "id": "nc75069516"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 1.74000001,
+                "place": "3 km SSW of Pāhala, Hawaii",
+                "time": 1727887141160,
+                "updated": 1727887236350,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74485737",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/hv74485737.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 47,
+                "net": "hv",
+                "code": "74485737",
+                "ids": ",hv74485737,",
+                "sources": ",hv,",
+                "types": ",origin,phase-data,",
+                "nst": 32,
+                "dmin": 0.06903,
+                "rms": 0.129999995,
+                "gap": 152,
+                "magType": "md",
+                "type": "earthquake",
+                "title": "M 1.7 - 3 km SSW of Pāhala, Hawaii"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -155.493667602539,
+                    19.1791667938232,
+                    31.0300006866455
+                ]
+            },
+            "id": "hv74485737"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 1.6,
+                "place": "95 km NW of Yakutat, Alaska",
+                "time": 1727887064848,
+                "updated": 1727887165332,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak024coq2qxg",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak024coq2qxg.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 39,
+                "net": "ak",
+                "code": "024coq2qxg",
+                "ids": ",ak024coq2qxg,",
+                "sources": ",ak,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": null,
+                "rms": 0.84,
+                "gap": null,
+                "magType": "ml",
+                "type": "earthquake",
+                "title": "M 1.6 - 95 km NW of Yakutat, Alaska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -140.9359,
+                    60.1537,
+                    9.6
+                ]
+            },
+            "id": "ak024coq2qxg"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 0.67,
+                "place": "2 km SSW of Parkfield, CA",
+                "time": 1727887013760,
+                "updated": 1727887942667,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75069511",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75069511.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 7,
+                "net": "nc",
+                "code": "75069511",
+                "ids": ",nc75069511,",
+                "sources": ",nc,",
+                "types": ",nearby-cities,origin,phase-data,scitech-link,",
+                "nst": 7,
+                "dmin": 0.04199,
+                "rms": 0.03,
+                "gap": 164,
+                "magType": "md",
+                "type": "earthquake",
+                "title": "M 0.7 - 2 km SSW of Parkfield, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.432502746582,
+                    35.8841667175293,
+                    11.1700000762939
+                ]
+            },
+            "id": "nc75069511"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 1.9,
+                "place": "60 km E of Pedro Bay, Alaska",
+                "time": 1727886473735,
+                "updated": 1727886578640,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak024coq0luk",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak024coq0luk.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 56,
+                "net": "ak",
+                "code": "024coq0luk",
+                "ids": ",ak024coq0luk,",
+                "sources": ",ak,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": null,
+                "rms": 0.54,
+                "gap": null,
+                "magType": "ml",
+                "type": "earthquake",
+                "title": "M 1.9 - 60 km E of Pedro Bay, Alaska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -153.0306,
+                    59.8312,
+                    95.3
+                ]
+            },
+            "id": "ak024coq0luk"
+        },
